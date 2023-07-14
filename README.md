@@ -9,9 +9,9 @@
 <a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a  software developer and writer. I love programming, reading, writing and speaking.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
+As a software developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
